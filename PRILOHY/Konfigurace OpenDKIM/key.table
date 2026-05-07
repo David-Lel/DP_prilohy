@@ -1,1 +1,0 @@
-default._domainkey.<DOMENA>.cz <DOMENA>.cz:default:/etc/opendkim/keys/<DOMENA>.cz/default.private
